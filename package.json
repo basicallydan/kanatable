@@ -1,0 +1,26 @@
+{
+  "name": "kanatable",
+  "version": "0.0.1",
+  "description": "Generate random kana tables",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/basicallydan/kanatable.git"
+  },
+  "keywords": [
+    "japanese",
+    "kana",
+    "language",
+    "learning",
+    "practice"
+  ],
+  "author": "Dan Hough <daniel.hough@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/basicallydan/kanatable/issues"
+  },
+  "homepage": "https://github.com/basicallydan/kanatable#readme"
+}
