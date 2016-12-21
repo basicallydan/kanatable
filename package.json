@@ -4,7 +4,7 @@
   "description": "Generate random kana tables",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node *.test.js"
   },
   "repository": {
     "type": "git",
@@ -22,5 +22,13 @@
   "bugs": {
     "url": "https://github.com/basicallydan/kanatable/issues"
   },
-  "homepage": "https://github.com/basicallydan/kanatable#readme"
+  "homepage": "https://github.com/basicallydan/kanatable#readme",
+  "devDependencies": {
+    "eslint": "^3.12.2"
+  },
+  "dependencies": {
+    "commander": "^2.9.0",
+    "japanese": "^1.2.0",
+    "japanese-kana": "0.0.3"
+  }
 }
